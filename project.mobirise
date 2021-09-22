@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#6e1684",
         "secondaryColor": "#ff3366",
-        "successColor": "#F7ED4A",
+        "successColor": "#6e1684",
         "infoColor": "#82786E",
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
@@ -65,7 +65,7 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "mbrsiteDomain": "nc8e4e1hfq",
+    "mbrsiteDomain": "gdopgl3acj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
